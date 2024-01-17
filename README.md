@@ -21,8 +21,7 @@ Photon Unity Networking
 
 - **시작 화면(이거나 먹어라 = Eat This)**
     
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/91d83160-929c-4d19-9e13-ed4fad3eedd3/Untitled.png)
-    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/91d83160-929c-4d19-9e13-ed4fad3eedd3/Untitled.png)
     - 싱글 플레이 및 멀티 플레이 선택 가능
 - **싱글 플레이**
     
