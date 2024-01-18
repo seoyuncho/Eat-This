@@ -51,16 +51,11 @@ Photon Unity Networking
             - <이미지>
             - 캐릭터가 우산을 쓰게 되고, 똥을 맞아도 플레이어가 죽지 않는다.
         - 황금거위
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/5d8e8463-1d2b-4e03-b573-71ef5fa2ca04/Untitled.png)
-    
-    - 황금거위를 먹으면 한 코인당 5점인 무지개 코인이 떨어진다.
+          ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/7dc55f03-f478-41a6-84aa-891cced2fde1)
+            - 황금거위를 먹으면 한 코인당 5점인 무지개 코인이 떨어진다.
 - 게임오버 및 점수저장
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/1af63c7f-9efc-4fef-9bc0-978a4045b47c/Untitled.png)
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/cba017ce-277a-4864-9f66-a1abc77385f0/Untitled.png)
-
+    ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/c202634d-ec1c-4645-bb59-4146ab29be03)
+    ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/9a1a0d8d-2593-4620-95de-8359c4c3e954)
 - **멀티 플레이**
     - 방 생성 및 참여
         - <이미지>
