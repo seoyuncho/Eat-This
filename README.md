@@ -1,5 +1,6 @@
 # Eat-This
 ### 팀원
+![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/eedd842b-6b33-4057-b901-08520c372eb1)
 
 ---
 
