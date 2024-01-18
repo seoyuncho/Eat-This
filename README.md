@@ -20,6 +20,7 @@ Photon Unity Networking
 ---
 
 - **시작 화면(이거나 먹어라 = Eat This)**
+
     ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/eedd842b-6b33-4057-b901-08520c372eb1)
   
     - 싱글 플레이 및 멀티 플레이 선택 가능
@@ -31,10 +32,12 @@ Photon Unity Networking
     - 좌,우,점프를 통해 하늘에서 떨어지는 똥을 피한다.
     - 게임 Stage
         - 스테이지1
+        - 
           ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/8c1f0fd7-d137-453f-9d6e-48739b0798a3)
 
             - 일정한 시간 간격으로 랜덤한 위치에서 떨어지는 똥을 피한다.
         - 스테이지2
+          
           ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/ff769940-18ab-44fc-a395-e8180b65fcd2)
             
             - 크기가 커진 똥이 하늘에서 떨어진다.
@@ -56,10 +59,12 @@ Photon Unity Networking
             - <이미지>
             - 캐릭터가 우산을 쓰게 되고, 똥을 맞아도 플레이어가 죽지 않는다.
         - 황금거위
+          
           ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/7dc55f03-f478-41a6-84aa-891cced2fde1)
             
             - 황금거위를 먹으면 한 코인당 5점인 무지개 코인이 떨어진다.
 - 게임오버 및 점수저장
+  
     ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/c202634d-ec1c-4645-bb59-4146ab29be03)
     ![Untitled](https://github.com/seoyuncho/Eat-This/assets/103191590/9a1a0d8d-2593-4620-95de-8359c4c3e954)
 
